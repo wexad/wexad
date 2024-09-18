@@ -1,4 +1,4 @@
-# Hi there, I'm [Sherzod] 👋
+# Hi there, I'm Sherzod 👋
 
 I'm a passionate software developer with a focus on **Java** and **Spring Boot**. 
 I'm constantly learning and evolving in the field of software engineering, aspiring to become a software architect.
