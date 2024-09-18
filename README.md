@@ -8,7 +8,7 @@ I'm constantly learning and evolving in the field of software engineering, aspir
 - **Languages:** Java, SQL, JavaScript, HTML, CSS
 - **Frameworks:** Spring Boot, Spring Framework, Jakarta EE
 - **Databases:** PostgreSQL, MySQL, Oracle Database, H2, MongoDB
-- **Web:** REST APIs, Thymeleaf,Servlet/JSP
+- **Web:** REST APIs, Thymeleaf, Servlet/JSP
 
 ## 📚 What I'm Currently Working On
 
