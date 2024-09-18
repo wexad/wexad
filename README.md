@@ -33,7 +33,7 @@ I'm constantly learning and evolving in the field of software engineering, aspir
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Sherzod=wexad&show_icons=true&theme=radical)
+![B](https://github-readme-stats.vercel.app/api?wexad=wexad&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
