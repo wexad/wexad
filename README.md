@@ -26,4 +26,4 @@ I'm constantly learning and evolving in the field of software engineering, aspir
 ## 📫 Connect with Me
 
 - **Email:** [sherzodchoriyev747@example.com](mailto:sherzodchoriyev747@example.com)
-- **LinkedIn:** [linkedin.com/in/sherzod-choriyev-122493214/](https://www.linkedin.com/in/wexad/)
+- **LinkedIn:** [linkedin.com/in/wexad/](https://www.linkedin.com/in/wexad/)
