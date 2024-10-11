@@ -12,7 +12,7 @@ I'm constantly learning and evolving in the field of software engineering, aspir
 
 ## 📚 What I'm Currently Working On
 
-- Building an Travel Agency platform using **Spring Boot** and **PostgreSQL**.
+- Building an CRM platform using **Spring Boot** and **PostgreSQL**.
 - Exploring advanced **Data Structures and Algorithms** to improve coding efficiency and problem-solving skills.
 
 ## 🏆 Achievements
