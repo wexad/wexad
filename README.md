@@ -5,15 +5,11 @@ I'm constantly learning and evolving in the field of software engineering, aspir
 
 ## 🚀 Technologies & Tools
 
-- **Languages:** Java, SQL, JavaScript, HTML, CSS
+- **Languages:** Java, SQL
 - **Frameworks:** Spring Boot, Spring Framework, Jakarta EE
-- **Databases:** PostgreSQL, MySQL, Oracle Database, H2, MongoDB
+- **Databases:** PostgreSQL, MySQL, Oracle Database
 - **Web:** REST APIs, Thymeleaf, Servlet/JSP
 
-## 📚 What I'm Currently Working On
-
-- Building an CRM platform using **Spring Boot** and **PostgreSQL**.
-- Exploring advanced **Data Structures and Algorithms** to improve coding efficiency and problem-solving skills.
 
 ## 🏆 Achievements
 
