@@ -15,10 +15,6 @@ I'm constantly learning and evolving in the field of software engineering, aspir
 
 - Implemented **JWT authentication** for secure API access in a **Spring Boot** application.
 
-## 📈 GitHub Stats
-
-(https://github-readme-stats.vercel.app/api?username=wexad&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 
 - **Email:** [sherzodchoriyev747@example.com](mailto:sherzodchoriyev747@example.com)
